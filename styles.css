@@ -20,6 +20,10 @@ ol,li{
 h2{
 	text-align:center;
 }
+a{
+	text-decoration:none;
+	color:black;
+}
 
 div h2,audio,p{
 	background-color:white;
