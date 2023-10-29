@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+*{
+	background-color:rgb(204,204,204);
+}
+h1{
+	text-align:center;
+}
+ol{
+	border:2px solid black;
+	padding:20px;
+	border-radius:10px;
+	
+}
+ol,li{
+	background-color:white;
+	
+	list-style-type:none;
+	
+}
+h2{
+	text-align:center;
+}
+
+div h2,audio,p{
+	background-color:white;
+}
+div{
+	border:2px solid black;
+	margin:80px;
+	background-color:white;
+	border-radius:10px;
+	padding:20px;
+}
